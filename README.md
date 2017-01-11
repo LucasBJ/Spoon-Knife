@@ -1,9 +1,15 @@
-### Well hello there!
+#**Lucas Buchheim-Jurisson**  
+***
+###*Education*
+* Year: 4th (undergrad)
+* Major: Political Science
+* Minor: Astronomy & Astrophysics
 
-This repository is meant to provide an example for *forking* a repository on GitHub.
+###*Basics*
+I was born in Chicago and went to the Lab Schools here in Hyde Park before coming to UChicago. On campus, I am a member of the Trott Business Program (formerly UCIB), Chicago Project on Security and Terrorism, and ~~play~~ played on the varsity soccer team. 
 
-Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
+###*Interests*
+Though I spent most of my college career working in finance, recently I've become very interested in data science. Post-graduation, I hope to work in hedge funds or tech for a year or two before applying to grad school. 
 
-After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
-
-For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+###*Misc*
+Favorite song: https://www.youtube.com/watch?v=CRHyBwNtkLA
